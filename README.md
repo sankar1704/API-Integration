@@ -73,3 +73,7 @@ To use the Weather App, simply enter the name of the city in the search bar and 
 
 OUTPUT:
 
+
+![Image](https://github.com/user-attachments/assets/c7da00f5-a194-4bf5-bace-4042381d1e5d)
+
+
